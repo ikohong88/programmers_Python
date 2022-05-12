@@ -1,1 +1,1 @@
-# SelfStudy_Python
+# 프로그래머스 학습자료 (Python)
