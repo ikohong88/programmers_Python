@@ -1,3 +1,5 @@
+# new_id = "...!@BaT#*..y.abcdefghijklm"
+
 import string
 
 def solution(new_id):
